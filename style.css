@@ -26,14 +26,13 @@ body {
     }
   
 
- .contact-information h3 {
+ .contact-information h2 {
   text-align: left;
   position: relative;
   margin: 0 0 24px 0;
   font-size: 24px;
   letter-spacing: -2px;
   width: 100%; 
-  border: none;
   }
 
 #pic {
