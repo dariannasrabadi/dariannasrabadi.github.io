@@ -56,3 +56,19 @@ body {
   font-size: 19px;
 }
 
+#education h2 {
+  font-size: 34px;
+  margin: 20px 0 12px 0;
+}
+
+#education h3 {
+  font-size: 27px;
+  margin: 14px 0 0px 0;	
+  border-bottom: 1px solid #342E1D
+}
+
+#education h4 {
+  font-size: 20px;
+  margin: 0px;
+  font-style: italic 
+}
