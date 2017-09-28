@@ -4,7 +4,7 @@ body {
   background-size: cover;
   margin: 0
   font-family: Papyrus, 'Trebuchet MS', Helvetica, sans-serif;  
-
+position: relative;
 }
 
 #container {
