@@ -7,14 +7,19 @@ body {
 
   
   .contact-information h1 {
-  text-align: center;
-  margin: 0;  
+ 	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
     }
   
   .contact-information h3 {
-  text-align: center;
-  border-bottom: 1px solid #342E1D;
-  margin: 0;	  
+  font-size: 24px;
+  height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+  border-bottom: 1px solid #342E1D; 
   }
 
   
