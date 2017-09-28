@@ -14,19 +14,11 @@ body {
 	border-bottom: 1px solid #342E1D
     }
   
-  .contact-information h3 {
-  text-align: center;
-  position: fixed;
-  font-size: 32px;
-  height: 10px;
-  bottom: 0px;
-  width: 100%; 
-  }
 
   h3 {
   text-align: center;
-  position: fixed;
-  font-size: 32px;
+  position: relative;
+  font-size: 52px;
   height: 10px;
   bottom: 0px;
   width: 100%; 
