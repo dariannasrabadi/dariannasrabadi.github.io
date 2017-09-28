@@ -40,18 +40,18 @@ body {
 }
 
 
-.professional-targetinc h3 {
-  font-size: 28px;
+#container  h3 {
+  font-size: 27px;
   margin: 14px 0 14px 0;	
   border-bottom: 1px solid #342E1D
 }
 
-.professional-targetinc h4 {
+#container h4 {
   font-size: 20px;
   font-style: italic 
 }
 
-.professional-targetinc ul {
-  font-size: 18px;
+#container ul {
+  font-size: 19px;
 }
 
