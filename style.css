@@ -12,12 +12,14 @@ body {
 }
 
 #professional-experience {
-  font-size: 28px;
+  font-size: 26px;
+  margin: 20px 0 20px 0;
 }
 
   .contact-information h1 {
   font-size: 48px;
   text-align: left;
+  margin: 32px 0 4px 0;
   letter-spacing: -2px;
   width: 100%;	  
   border-bottom: 1px solid #342E1D
@@ -27,7 +29,8 @@ body {
  .contact-information h3 {
   text-align: left;
   position: relative;
-  font-size: 28px;
+  margin: 0 0 24px 0;
+  font-size: 24px;
   letter-spacing: -2px;
   width: 100%; 
   }
@@ -39,5 +42,6 @@ body {
 
 .professional-targetinc h3 {
   font-size: 28px;
+  margin: 14px 0 14px 0;	
   border-bottom: 1px solid #342E1D
 }
