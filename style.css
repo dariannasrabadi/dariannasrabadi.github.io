@@ -12,7 +12,7 @@ body {
 }
 
 #professional-experience {
-height: 200px;
+height: 10px;
 }
 
   .contact-information h1 {
@@ -31,7 +31,6 @@ height: 200px;
   position: relative;
   font-size: 30px;
   letter-spacing: -2px;
-  height: 10px;
   width: 100%; 
   border-bottom: 2px solid #342E1D
   }
