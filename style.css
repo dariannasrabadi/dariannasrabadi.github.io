@@ -6,6 +6,10 @@ html, body {
   line-height: 1.5;
 }
 
+h1 {
+	font-size: 42px;
+}
+
 body {
   background: url(scroll.png);
   background-position: center top;
