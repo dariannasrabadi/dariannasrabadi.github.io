@@ -6,16 +6,14 @@ body {
   font-family: Papyrus, 'Trebuchet MS', Helvetica, sans-serif;  
 }
 
-#container {
-	width: 1000px;
-	margin: 60px auto 80px;
-}
-
 #professional-experience {
   font-size: 26px;
   margin: 12px 0 20px 0;
- webkit-margin-before: 0em;
- webkit-margin-after: 0em;
+}
+
+#container {
+	width: 1000px;
+	margin: 60px auto 80px;
 }
 
   .contact-information h1 {
