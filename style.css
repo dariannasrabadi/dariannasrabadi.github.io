@@ -35,3 +35,9 @@ body {
 #pic {
 	float: right;
 }
+
+
+.professional-targetinc h3 {
+  font-size: 28px;
+  border-bottom: 1px solid #342E1D
+}
