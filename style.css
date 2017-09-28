@@ -1,7 +1,3 @@
-h1 {
-	font-size: 62px;
-}
-
 body {
   background: url(scroll.png);
   background-position: center top;
@@ -10,19 +6,15 @@ body {
   font-family: Papyrus, 'Trebuchet MS', Helvetica, sans-serif;  
 
   
-  .contact-information {
-  h1 {
+  .contact-information h1 {
   text-align: center;
-  margin: 0;
-	  
+  margin: 0;  
     }
-  }
   
   .contact-information h3 {
   text-align: center;
   border-bottom: 1px solid #342E1D;
-  margin: 0;
-  width: 100%;	  
+  margin: 0;	  
   }
 
   
