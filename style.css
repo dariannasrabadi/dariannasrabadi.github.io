@@ -14,6 +14,8 @@ body {
 #professional-experience {
   font-size: 26px;
   margin: 12px 0 20px 0;
+ webkit-margin-before: 0em;
+ webkit-margin-after: 0em;
 }
 
   .contact-information h1 {
