@@ -4,7 +4,6 @@ body {
   background-size: cover;
   margin: 0
   font-family: Papyrus, 'Trebuchet MS', Helvetica, sans-serif;  
-position: relative;
 }
 
 #container {
@@ -12,6 +11,9 @@ position: relative;
 	margin: 40px auto 60px;
 }
 
+#professional-experience {
+height: 50px;
+}
 
   .contact-information h1 {
 	font-size: 42px;
@@ -27,9 +29,10 @@ border-bottom: 1px solid #342E1D
   text-align: left;
   position: relative;
   font-size: 30px;
+  letter-spacing: -2px;
   height: 10px;
-  bottom: 10px;
   width: 100%; 
+  margin: 0 0 16px 0;
   padding: 0 0 16px 0;	 
   border-bottom: 1px solid #342E1D
   }
