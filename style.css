@@ -23,4 +23,11 @@ body {
   width: 100%; 
   }
 
-  
+  h3 {
+  text-align: center;
+  position: fixed;
+  font-size: 32px;
+  height: 10px;
+  bottom: 0px;
+  width: 100%; 
+  }
