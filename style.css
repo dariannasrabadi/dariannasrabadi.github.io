@@ -10,7 +10,5 @@ body {
   background: url(scroll.png);
   background-position: center top;
   background-size: cover;
-  
-p {
-  color: Blue;
-}
+  margin: 0
+  font-family: 'Papyrus', Trebuchet MS, Helvetica, sans-serif;  
