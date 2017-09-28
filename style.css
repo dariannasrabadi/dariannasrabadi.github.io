@@ -14,9 +14,11 @@ body {
   font-family: Papyrus, 'Trebuchet MS', Helvetica, sans-serif;  
 
   
-  .contact-information h1 {
+  .contact-information {
+  h1 {
   text-align: center;
   margin: 0;
+    }
   }
   
   .contact-information h3 {
