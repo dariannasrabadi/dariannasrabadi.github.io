@@ -11,17 +11,18 @@ body {
 	font-size: 42px;
   height: 16px;
   bottom: 0px;
-	text-align: center;
+	text-align: left;
 	width: 100%;
     }
   
 
  .contact-information h3 {
-  text-align: center;
+  text-align: left;
   position: relative;
   font-size: 30px;
   height: 10px;
-  bottom: 0px;
+  bottom: 10px;
   width: 100%; 
+  padding: 0 0 16px 0;	 
   border-bottom: 1px solid #342E1D
   }
