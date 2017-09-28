@@ -7,28 +7,32 @@ body {
 }
 
 #container {
-	width: 1200px;
+	width: 1000px;
 	margin: 60px auto 80px;
 }
 
 #professional-experience {
-height: 10px;
+  font-size: 36px;
 }
 
   .contact-information h1 {
   font-size: 42px;
-  bottom: 2px;
   text-align: left;
+  letter-spacing: -2px;
   width: 100%;	  
-  border-bottom: 2px solid #342E1D
+  border-bottom: 1px solid #342E1D
     }
   
 
  .contact-information h3 {
   text-align: left;
   position: relative;
-  font-size: 30px;
+  font-size: 24px;
   letter-spacing: -2px;
   width: 100%; 
-  border-bottom: 2px solid #342E1D
+  border-bottom: 1px solid #342E1D
   }
+
+#pic {
+	float: right;
+}
