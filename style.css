@@ -7,8 +7,8 @@ body {
 }
 
 #container {
-	width: 800px;
-	margin: 40px auto 60px;
+	width: 1200px;
+	margin: 60px auto 80px;
 }
 
 #professional-experience {
@@ -16,8 +16,6 @@ height: 10px;
 }
 
   .contact-information h1 {
-  margin: 0 0 16px 0;
-  padding: 0 0 16px 0;
   font-size: 42px;
   bottom: 2px;
   text-align: left;
