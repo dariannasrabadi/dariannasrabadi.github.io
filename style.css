@@ -12,3 +12,17 @@ body {
   background-size: cover;
   margin: 0
   font-family: Papyrus, 'Trebuchet MS', Helvetica, sans-serif;  
+
+  
+  .contact-information h1 {
+  text-align: center;
+  margin: 0;
+  }
+  
+  .contact-information h3 {
+  text-align: center;
+  border-bottom: 1px solid #342E1D;
+  margin: 0;
+  }
+
+  
